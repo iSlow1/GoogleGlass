@@ -297,5 +297,16 @@ footer#rodape p
     text-align: center;
 }
 
+video#filme01{
+    width: 450px;
+    left: 25px;
+    top: -10px;
+    display: block;
+    position: relative;
 
+}
+
+video#filme02{
+    width: 350px;
+}
 
